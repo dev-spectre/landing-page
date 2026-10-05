@@ -29,6 +29,10 @@ Open `index.html` in a browser. No build step required.
 └── css.png                # Reference image
 ```
 
+
+## Screenshots
+
+![screenshot](screenshots/home.png)
 ## License
 
 MIT
